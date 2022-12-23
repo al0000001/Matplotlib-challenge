@@ -13,6 +13,9 @@ The homework instructions and requirements are located in Canvas (or in the 08-C
 
 
 
+# Solution_code_path = pymaceuticals_challenge_solutions.ipynb
+
+
 #                                             ***Conclusion*** 
 
 # 1, Capomulin and Ramicane can have effective results in terms of reducing Tumor Volume (mm3) as at the final stage tumor volume size are lower comepare with Infubinol and Ceftamin.
